@@ -2,13 +2,13 @@
 
 ## Weekly Plan
 
-|---|---|
 | Week-Hour | Topic |
-| 1-1 | 1 |
-| 1-2 to 1-3 | 2 |
-| 1-4 to 3-4 | 3 |
-| 4-1  | 4 |
-| 4-2 to 5-4 | 5 |
+|---|---|
+| 1-1 | 1: Course Introduction |
+| 1-2 to 1-3 | 2: Spreadsheets |
+| 1-4 to 3-4 | 3: Python and Programming |
+| 4-1  | 4: Usability |
+| 4-2 to 5-4 | 5: Web Apps |
 | 6-1 to 6-2 | Revision |
 
 
