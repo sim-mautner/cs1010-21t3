@@ -15,8 +15,8 @@
 ## Directory Structure / Lecture Plan
 
 * Lectures
-  * 1: Admin - Course Introduction
-  * 2: Spreadsheets
+  1. Admin - Course Introduction
+  2. Spreadsheets
   * 3: Python and Programming
     * Colab Introduction
     * Variables
@@ -41,10 +41,11 @@
       * Plotly
     * None
     * Exceptions
-    * Recursion (optional)
     * Serialization
-    * List Comprehension
-    * Pytest
+    * Recursion (if time)
+    * List Comprehension (if time)
+    * Pytest (if time)
+    * Functional Programming (if time)
   * 4: Usability
   * 5: Wep Apps
     * HTML
