@@ -1,5 +1,17 @@
 # cs1010-21t3
 
+## Weekly Plan
+
+|---|---|
+| Week-Hour | Topic |
+| 1-1 | 1 |
+| 1-2 to 1-3 | 2 |
+| 1-4 to 3-4 | 3 |
+| 4-1  | 4 |
+| 4-2 to 5-4 | 5 |
+| 6-1 to 6-2 | Revision |
+
+
 ## Directory Structure / Lecture Plan
 
 * Lectures
@@ -33,7 +45,8 @@
     * Serialization
     * List Comprehension
     * Pytest
-  * 4: Wep Apps
+  * 4: Usability
+  * 5: Wep Apps
     * HTML
     * CSS
     * Flask
@@ -41,7 +54,6 @@
     * Cookies
     * Javascript
     * External Data Sources (Client Libraries and APIs)
-  * 5: Usability
   * 6: Storing passwords (hashing, salt, pepper), JWT
   * 7: Databases
   * 8: PyGame
