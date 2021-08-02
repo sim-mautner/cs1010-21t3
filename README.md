@@ -2,7 +2,7 @@
 
 ## Weekly Plan
 
-| Week-Hour | Topic |
+| Week-Hour | Topic (Planned) |
 |---|---|
 | 1-1 | 1: Course Introduction |
 | 1-2 to 1-3 | 2: Spreadsheets |
