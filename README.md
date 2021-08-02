@@ -1,6 +1,6 @@
 # cs1010-21t3
 
-## Directory Structure
+## Directory Structure / Lecture Plan
 
 * Lectures
   * 1: Admin - Course Introduction
@@ -51,5 +51,3 @@
 * Resources and References
   * Code Style
   * data
-
-## Lecture Plan
