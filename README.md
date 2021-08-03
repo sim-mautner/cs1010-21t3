@@ -24,6 +24,7 @@
     * Calling functions and methods
     * Print
     * Special characters
+    * F-Strings
     * Data types
     * Boolean
     * Conditionals
