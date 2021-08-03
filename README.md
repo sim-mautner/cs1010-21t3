@@ -65,3 +65,9 @@
 * Resources and References
   * Code Style
   * data
+
+
+Write and insert:
+* Storing passwords
+* AI
+* computational thinking: gcd and game of life
