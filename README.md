@@ -10,6 +10,8 @@
 | 4-1  | 4: Usability |
 | 4-2 to 5-4 | 5: Web Apps |
 | 6-1 to 6-2 | Revision |
+| 7-1 to 9-4 | Student choice of topics |
+| 10-1 to 10-4 | Lab walkthroughs and revision |
 
 
 ## Directory Structure / Lecture Plan
