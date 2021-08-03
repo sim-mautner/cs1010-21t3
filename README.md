@@ -70,4 +70,4 @@
 Write and insert:
 * Storing passwords
 * AI
-* computational thinking: gcd and game of life
+* computational thinking: gcd, game of life, sorting and searching
