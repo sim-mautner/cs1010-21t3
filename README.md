@@ -71,5 +71,6 @@
 
 
 Write and insert:
-* AI
+* AI,
+* Pandas, numpy, plotly
 * computational thinking: gcd, game of life, sorting and searching
