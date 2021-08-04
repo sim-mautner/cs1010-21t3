@@ -33,7 +33,7 @@
     * User input
     * Loops
     * Writing functions
-    * Testing (TDD)
+    * Assert, Testing (TDD)
     * Lists
     * Dictionaries
     * Tuples
