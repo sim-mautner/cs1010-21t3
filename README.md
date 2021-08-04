@@ -51,6 +51,7 @@
     * Functional Programming (if time)
   * 4: Usability and User Interface Design
   * 5: Wep Apps
+    * Setting up VSCode and Python
     * HTML
     * CSS
     * Flask
