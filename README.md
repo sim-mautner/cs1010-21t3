@@ -7,6 +7,7 @@
 | 1-1 | 1: Course Introduction |
 | 1-2 to 1-3 | 2: Spreadsheets |
 | 1-4 to 3-4 | 3: Python and Programming Fundamentals|
+| Needs updating |
 | 4-1  | 4: Usability and User Interface Design |
 | 4-2 to 5-4 | 5: Web Apps |
 | 6-1 to 6-2 | Revision |
@@ -44,16 +45,16 @@
       * Plotly
     * None
     * Exceptions
-    * Serialization
     * Recursion (if time)
     * List Comprehension (if time)
     * Pytest (if time)
     * Functional Programming (if time)
-  * 4: Usability and User Interface Design
-  * 5: Wep Apps
+  * 4: VSCode, Python, Outside the Colab enivronment
     * Setting up VSCode and Python
-    * Writing Python Programs in VSCode
-      * Writing code, importing modules, writing your code so it can be imported or run as a main
+    * Writing code, importing modules, writing your code so it can be imported or run as a main
+    * Serialization and file io
+  * 5: Usability and User Interface Design
+  * 6: Wep Apps
     * HTML
     * CSS
     * Flask
@@ -61,10 +62,10 @@
     * Cookies
     * Javascript
     * External Data Sources (Client Libraries and APIs)
-  * 6: Storing passwords (hashing, salt, pepper), JWT
-  * 7: Databases
-  * 8: PyGame
-  * 9: Object Oriented Programming
+  * 7: Storing passwords (hashing, salt, pepper), JWT
+  * 8: Databases
+  * 9: PyGame
+  * 10: Object Oriented Programming
 * Tutes and Labs
 * Project
 * Resources and References
