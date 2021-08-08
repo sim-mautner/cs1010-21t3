@@ -17,8 +17,8 @@
 ## Directory Structure / Lecture Plan
 
 * Lectures
-  1. Admin - Course Introduction
-  2. Spreadsheets
+  * 1: Admin - Course Introduction
+  * 2: Spreadsheets
   * 3: Python and Programming Fundamentals
     * Colab Introduction
     * Variables
@@ -52,6 +52,8 @@
   * 4: Usability and User Interface Design
   * 5: Wep Apps
     * Setting up VSCode and Python
+    * Writing Python Programs in VSCode
+      * Writing code, importing modules, writing your code so it can be imported or run as a main
     * HTML
     * CSS
     * Flask
