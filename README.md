@@ -74,7 +74,7 @@
   * data
 
 
-Write and insert:
+Write and insert as optional topics:
 * AI,
 * Pandas, numpy, plotly
 * computational thinking: gcd, game of life, sorting and searching
