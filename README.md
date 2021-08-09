@@ -6,10 +6,11 @@
 |---|---|
 | 1-1 | 1: Course Introduction |
 | 1-2 to 1-3 | 2: Spreadsheets |
-| 1-4 to 3-4 | 3: Python and Programming Fundamentals|
-| Needs updating |
-| 4-1  | 4: Usability and User Interface Design |
-| 4-2 to 5-4 | 5: Web Apps |
+| 1-4 to 3-4 | 3: Python and Programming Fundamentals |
+| 4-1 | 4: VSCode, File Structure |
+| 4-2 | 3: Python and Programming - Serialization topic |
+| 4-3 | 5: User Interface Design |
+| 4-4 to 5-4 | 6: Web Apps |
 | 6-1 to 6-2 | Revision |
 | 7-1 to 9-4 | Student choice of topics |
 | 10-1 to 10-4 | Lab walkthroughs and revision |
@@ -45,6 +46,7 @@
       * Plotly
     * None
     * Exceptions
+    * Serialization and file io
     * Recursion (if time)
     * List Comprehension (if time)
     * Pytest (if time)
@@ -52,7 +54,6 @@
   * 4: VSCode, Python, Outside the Colab enivronment
     * Setting up VSCode and Python
     * Writing code, importing modules, writing your code so it can be imported or run as a main
-    * Serialization and file io
   * 5: Usability and User Interface Design
   * 6: Wep Apps
     * HTML
