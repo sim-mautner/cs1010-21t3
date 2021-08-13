@@ -12,10 +12,10 @@
 | 4-3 | 5: User Interface Design |
 | 4-4 to 5-4 | 6: Web Apps |
 | 6-1 to 6-2 | Revision |
-| 7-1 to 9-4 | Student choice of topics |
-| 10-1 to 10-4 | Lab walkthroughs and revision |
+| 7-1 to 9-2 | Student choice of topics |
+| 9-3 to 10-2 | Lab walkthroughs and revision |
+| 10-3 to 10-4 (in own tutorial groups) | Demo projects |
 
-Possible: lab walkthroughs and revision in week 9, and week 10 lecture time used as tutorials to demo projects.
 
 ## Directory Structure / Lecture Plan
 
