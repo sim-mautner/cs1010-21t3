@@ -15,6 +15,7 @@
 | 7-1 to 9-4 | Student choice of topics |
 | 10-1 to 10-4 | Lab walkthroughs and revision |
 
+Possible: lab walkthroughs and revision in week 9, and week 10 lecture time used as tutorials to demo projects.
 
 ## Directory Structure / Lecture Plan
 
