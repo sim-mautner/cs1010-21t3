@@ -5,8 +5,8 @@
 | Week-Hour | Topic (Planned) |
 |---|---|
 | 1-1 | 1: Course Introduction |
-| 1-2 to 1-3 | 2: Spreadsheets |
-| 1-4 to 3-4 | 3: Python and Programming Fundamentals |
+| 1-2 | 2: Spreadsheets |
+| 1-3 to 3-4 | 3: Python and Programming Fundamentals |
 | 4-1 | 4: VSCode, File Structure |
 | 4-2 | 3: Python and Programming - Serialization topic |
 | 4-3 | 5: User Interface Design |
