@@ -14,7 +14,7 @@
 | 6-1 to 6-2 | Revision, lab walkthroughs |
 | 7-1 to 9-2 | Web Apps part 2 |
 | 8-1 to 8-4 | PyGame |
-| 9-1 to 9-2 | Student choice of topics, free time |
+| 9-1 to 9-2 | Fun things to do in Python |
 | 9-3 to 10-2 | Lab walkthroughs and revision |
 | 10-3 to 10-4 (in own tutorial groups) | Demo projects |
 
