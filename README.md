@@ -10,10 +10,10 @@
 | 4-1 | 4: VSCode, File Structure |
 | 4-2 | 3: Python and Programming - Serialization topic |
 | 4-3 | 5: User Interface Design |
-| 4-4 to 5-4 | 6: Web Apps |
+| 4-4 to 5-4 | 6.1: Web Apps |
 | 6-1 to 6-2 | Revision, lab walkthroughs |
-| 7-1 to 7-4 | Web Apps part 2 |
-| 8-1 to 8-4 | PyGame |
+| 7-1 to 7-4 | 6.2: Web Apps part 2 |
+| 8-1 to 8-4 | 7: PyGame |
 | 9-1 to 9-2 | Fun things to do in Python |
 | 9-3 to 10-2 | Lab walkthroughs and revision |
 | 10-3 to 10-4 (in own tutorial groups) | Demo projects |
@@ -58,16 +58,16 @@
     * Setting up VSCode and Python
     * Writing code, importing modules, writing your code so it can be imported or run as a main
   * 5: Usability and User Interface Design
-  * 6-1: Wep Apps
+  * 6.1: Wep Apps
     * HTML
     * Flask
     * PyHTML
-  * 6-2: Web Apps Part 2
+  * 6.2: Web Apps Part 2
     * Cookies
     * External Data Sources (Client Libraries and APIs)
     * CSS
     * Javascript
-  * PyGame
+  * 7: PyGame
 
 * Tutes and Labs
   * 1: Spreadsheets IF/AND/OR/NOT
@@ -82,13 +82,11 @@
   * data
 
 
-Write and insert as optional topics:
-* AI,
-* Pandas, numpy, plotly
-* computational thinking: gcd, game of life, sorting and searching
-
 Optional Topics:
- * 7: Storing passwords (hashing, salt, pepper), JWT
- * 8: Databases
- * 10: Object Oriented Programming
+ * Storing passwords (hashing, salt, pepper), JWT
+ * Databases
+ * Object Oriented Programming
  * Computer vision, instagram filters, chat bot
+ * AI,
+ * Pandas, numpy, plotly
+ * computational thinking: gcd, game of life, sorting and searching
