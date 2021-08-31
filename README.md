@@ -12,7 +12,7 @@
 | 4-3 | 5: User Interface Design |
 | 4-4 to 5-4 | 6: Web Apps |
 | 6-1 to 6-2 | Revision, lab walkthroughs |
-| 7-1 to 9-2 | Web Apps part 2 |
+| 7-1 to 7-4 | Web Apps part 2 |
 | 8-1 to 8-4 | PyGame |
 | 9-1 to 9-2 | Fun things to do in Python |
 | 9-3 to 10-2 | Lab walkthroughs and revision |
