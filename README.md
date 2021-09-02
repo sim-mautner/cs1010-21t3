@@ -14,7 +14,7 @@
 | 6-1 to 6-2 | Revision, lab walkthroughs |
 | 7-1 to 7-4 | 6.2: Web Apps part 2 |
 | 8-1 to 8-4 | 7: PyGame |
-| 9-1 to 9-2 | Fun things to do in Python |
+| 9-1 to 9-2 | Fun things to do in Python, Spreadsheets revisited |
 | 9-3 to 10-2 | Lab walkthroughs and revision |
 | 10-3 to 10-4 (in own tutorial groups) | Demo projects |
 
