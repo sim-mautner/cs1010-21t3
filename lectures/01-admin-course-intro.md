@@ -1,6 +1,9 @@
 # Course Introduction
 
 #### Who Am I?
+ * Sim Mautner.
+ * Tutor and lecturer... different subjects... COMP and INFS... since 2008.
+ * My attempt at drawing from YouTube videos... TODO insert here
 
 #### What is this course?
  * No background in programming required.
