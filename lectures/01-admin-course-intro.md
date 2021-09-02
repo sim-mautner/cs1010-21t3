@@ -6,6 +6,15 @@
  * My attempt at drawing from YouTube videos... TODO insert here
 
 ### What is this course?
+ * Content:
+   * Python programming
+   * Simple web applications
+   * Interface design
+ * Approaches:
+   * Tools
+   * Computational thinking TODO elaborate
+
+### Who is this course for?
  * No background in programming required.
  * Designed to introduce topics from the beginning.
  * If you have background and experience, this will be boring for you - go take COMP1511.
