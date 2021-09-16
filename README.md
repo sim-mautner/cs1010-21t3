@@ -26,31 +26,36 @@
   * 2: Spreadsheets
   * 3: Python and Programming Fundamentals
     * Colab Introduction
-    * Variables
-    * Strings
-    * Calling functions and methods
-    * Print
-    * Special characters
-    * F-Strings
-    * Data types
-    * Boolean
-    * Conditionals
-    * User input
-    * Loops
-    * Writing functions
-    * Assert, Testing (TDD)
-    * Lists
-    * Dictionaries
-    * Tuples
-    * Modules and Libraries
+    * 3.1: First Concepts
+      * Variables
+      * Strings
+      * Calling functions and methods
+      * Print
+      * Special characters
+      * F-Strings
+      * Data types
+      * Modulo operator
+    * 3.2: Control Flow
+      * Conditionals
+      * User input
+      * Loops
+      * Writing functions
+    * 3.3: Assert, Testing (TDD)
+    * 3.4: Collections (Data Structures)
+      * Lists
+      * Dictionaries
+      * Tuples
+      * TODO put more advanced data structure material here
+    * 3.5: Modules and Libraries
       * Datetime
       * Random
       * Images
       * Plotly
-    * None
-    * Exceptions
-    * Serialization and file io
-    * Recursion (if time)
+    * 3.6: Further Topics
+      * None
+      * Exceptions
+      * Recursion (if time)
+    * 3.7: Serialization and file io
     * List Comprehension (if time)
     * Pytest (if time)
     * Functional Programming (if time)
