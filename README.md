@@ -55,6 +55,8 @@
       * None
       * Exceptions
       * Recursion (if time)
+    * 3.8: Exercises and Revision
+      * Tweet Analysis
     * 3.7: Serialization and file io
     * List Comprehension (if time)
     * Pytest (if time)
