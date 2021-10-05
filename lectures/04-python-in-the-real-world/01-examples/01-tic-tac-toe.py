@@ -25,6 +25,7 @@ def main():
    board = create_board()
 
    player = PLAYER_0
+
    while True:
       print_board(board)
       row = int(input("Enter row: "))
@@ -34,7 +35,6 @@ def main():
          player = PLAYER_1
       else:
          player = PLAYER_0
-
 
 # Code which gets executed at the start
 if __name__ == '__main__':
