@@ -1,5 +1,6 @@
 # A function which takes a month and day of the year,
 # and returns the number of days into the year.
+# Month 0 = January
 def days_into_year(month, day):
     total = day
     if month > 0:
@@ -31,7 +32,6 @@ def quickTest():
     print(f"month 0, day 0 = {days_into_year(0,0)}")
     print(f"month 11, day 31 = {days_into_year(11,31)}")
 
-#if __name__ == '__main__':
-#    quickTest()
 
-quickTest()
+if __name__=="__main__":
+    quickTest()
