@@ -1,0 +1,2 @@
+#name = "Sim"
+print(name)
